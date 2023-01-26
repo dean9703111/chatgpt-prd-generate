@@ -1,0 +1,24 @@
+{
+  "name": "chatgpt-prd-generate",
+  "version": "1.0.0",
+  "description": "使用 ChatGPT 產生產品需求規格書（Prd）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dean9703111/chatgpt-prd-generate.git"
+  },
+  "keywords": [
+    "chatgpt",
+    "prd",
+    "Product Requirement Document"
+  ],
+  "author": "Dean Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dean9703111/chatgpt-prd-generate/issues"
+  },
+  "homepage": "https://github.com/dean9703111/chatgpt-prd-generate#readme"
+}
